@@ -24,5 +24,5 @@ SIMPLEDEMO/
       └── workflows/
           └── ci-cd.yml
 ``` 
-# MBMC 
- - name<ROhan Lama>
+# MBMC Session
+ - name<Hello everyone>
