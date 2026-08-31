@@ -24,8 +24,8 @@ SIMPLEDEMO/
       └── workflows/
           └── ci-cd.yml
 ``` 
-
-# MBMC Session 
+# MBMC Session
+ - name<Hello everyone>
 - Samip
 - Prabhat Tamang
 
