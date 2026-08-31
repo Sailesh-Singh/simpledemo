@@ -26,3 +26,6 @@ SIMPLEDEMO/
 ``` 
 # MBMC Session
  - name<Hello everyone>
+- Samip
+- Prabhat Tamang
+
