@@ -24,11 +24,3 @@ SIMPLEDEMO/
       └── workflows/
           └── ci-cd.yml
 ``` 
-# MBMC Session
-- <sojina>
-- name<rojan rasaily>
- - name<Hello everyone>
-- Samip
-- Prabhat Tamang
-ayush
--<Angsuki>
