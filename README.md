@@ -24,3 +24,6 @@ SIMPLEDEMO/
       └── workflows/
           └── ci-cd.yml
 ``` 
+
+#Attendance
+- Rupesh Yadav 
