@@ -24,3 +24,5 @@ SIMPLEDEMO/
       └── workflows/
           └── ci-cd.yml
 ``` 
+# Attendees 
+- Sailesh Singh
