@@ -24,9 +24,8 @@ SIMPLEDEMO/
       └── workflows/
           └── ci-cd.yml
 ``` 
-
-
-## Add something what you want to add
-"""
-CI/CD simple demo
-"""
+# Attendees 
+- Sailesh Singh
+- Dilkash Seikh
+- Binam Adhikari
+- Manjil Sharma
