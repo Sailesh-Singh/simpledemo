@@ -27,3 +27,4 @@ SIMPLEDEMO/
 # Attendees 
 - Sailesh Singh
 - Dilkash Seikh
+- Binam Adhikari
