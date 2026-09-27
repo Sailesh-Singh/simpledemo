@@ -26,3 +26,4 @@ SIMPLEDEMO/
 ``` 
 # Attendees 
 - Sailesh Singh
+- Aamod Gurung
