@@ -28,3 +28,4 @@ SIMPLEDEMO/
 - Sailesh Singh
 - Dilkash Seikh
 - Binam Adhikari
+- Manjil Sharma
